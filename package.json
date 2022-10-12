@@ -13,7 +13,7 @@
     "native-base": "^2.12.2",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
-    "react-native": "^0.58.5",
+    "react-native": "^0.70.2",
     "react-native-amap3d": "^1.1.1",
     "react-native-camera": "^1.2.0",
     "react-native-charts-wrapper": "^0.5.5",
